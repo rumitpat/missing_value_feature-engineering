@@ -1,0 +1,126 @@
+Discussion Of Roles And Responsibilities In Data Science Project- Further Announcements
+
+Feature Engineering, Feature Selection from scratch
+
+How Data Science Projects are Implemented? 
+
+Product Based(Various Department)      Service Based Companie(Infosys,TCS,HCL)
+
+
+
+Client------ Insurance based ---Recommend insurance coverage products to people based on various factors
+
+Product Owner---Initiated The Project--- Domain Expertise---Role 1
+
+Business Analyst---Role 2----Start gathering the requirements, confluence,jira, agile process
+
+Team 1
+
+Data Collection Sources---Product Owner(Inside Company),3rd Party data,
+Surveys, Web scraping
+
+Data Analyst/Data Scientist(Role 3)----Based on the requirement, they will try to find out which data is required to solve the problem
+
+After Data Storage-
+Data is passed to
+
+Data Analyst---Analyzing the Data, Recording all the observations, Creating reports and dashboards(Tableau + Power BI)-------> Stake holders
+
+Programming language=--->(R or python) 
+
+Data Scientist---Data Analyst + Life cycle of A data Science Project
+
+Feature Engineering-- Missing Values, Outliers, Transformation,Scaling,Imbalanced dataset
+Feature Selection----
+Model Creation
+Hyperparameter Tuning
+
+Machine Learning Engineers(Role 6)--
+
+Model Deployment-- Indepth knowledge of infrastructures
+AWS EC2,AZure, HEroku, PAAS,IAAS, inprem server
+
+Dockers, Kubernets
+
+In Real life---Krish (Business Analyst,Data Analyst, Data Scientist, MAchine Learning Engineer, Machine Learning Researcher)
+
+MAchine Learning Researcher(Role 7)(Phd, statistics) For new Business Problem---Patent---
+
+-----Machine LEarning Algorithms(Open source-sklearn,keras,tensorflow,pytorch)
+
+------Pattern Recognition ----Create a Machine Learning Algorithm
+
+Analytics Manager (Role 8)--Managing Data Scientist, Data Analyst,ML engineers,ML Researcher
+
+
+
+Team 2
+
+Databases---
+SQL---Mysql,sql server, sqllite, postgresql
+NoSQL----Mongodb,Dynamo db,Cassandra, Firebase
+
+Big Data Engineering Team(Role 4)---architecture to store this specific data,
+1. Big Data Hadoop
+2. AWS
+3. Azure
+4. Cloudera
+
+Team 3
+CLoud Team (Role 5)
+
+1. Live streaming---weather data,AQI data---every 5 min
+Architecture ---Cloud Team---
+AWS-S3 bucket---boto3
+Kinsesis Stream---
+
+Diagnostic data from by wrist band for health-- S3 bucket
+
+Every IOT device 
+
+
+Team 1---Analytics Team
+
+programming language---python, R
+libraries used---sklearn,tensorflow,keras,pytorch,matplotlib,seaborn,pyspark
+tools used-----Tableau,Power BI, Jira,Confluence,repository--git,anaconda,rapidminer,jupyter,spyder,pycharm,r studio,vs code
+
+Web Frameworks----Flask ,Django,angular js,react js
+
+Servers--AWS,AZure
+
+Team 2- Big Data
+programing---Java,Scala
+tools---Hadoop,Flume,Pig, Hive, Mongodb,oozie,sqoop,spark
+
+Team 3- Cloud
+java
+Azure,AWS
+
+Feature Engineering
+Feature Selection
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
